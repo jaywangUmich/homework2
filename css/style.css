@@ -1,18 +1,17 @@
 html {
     background: #000000;
     font-family: "Lucida Grande", Sans-Serif;
+    color: #FFFFFF;
 }
 
 h1 {
-    color: #FFFFFF;
     text-align: center;
     font-size: 64px;
 }
 
 h2 {
-    color: #FFFFFF;
     font-size: 30px;
-    text-shadow: 2px 2px 8px #808080;
+    text-shadow: 5px 5px 2px #808080;
 }
 
 p {
@@ -49,7 +48,7 @@ div#yellow {
 
 #yellow h2 {
     color: #000000;
-    text-shadow: 2px 2px 8px #c7e2c7;
+    text-shadow: 5px 5px 2px #c7e2c7;
 }
 #yellow p {
     color: #000000;
